@@ -1,3 +1,16 @@
+Download the Full Package [[7z format]](https://dl.dropboxusercontent.com/u/17358151/SIMPLL.7z)
+
+Note : 7z file format can be extracted with WinRAR,7zip and most of the archive software
+
+Get 7Z : http://www.7-zip.org/
+
+***
+
+
+Simple Interactive Multiple Programming Language Learner (SIMPLL)
+============
+***
+
 SIMPLL pronounced “simple” is a set of batch files (windows cmd) and
 other bundled third party products which let you start learning multiple
 programming languages using interactive shells (or as some say
