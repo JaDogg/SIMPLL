@@ -1,0 +1,1 @@
+busybox\busybox tar -cv %1 |lzma e -d25 -si -so >%1.tar.lzma

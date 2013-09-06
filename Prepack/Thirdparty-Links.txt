@@ -1,0 +1,9 @@
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/OpenJDK.7z
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/Busybox.7z
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/GCC.7z
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/Groovy.7z
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/IGCC.7z
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/JavaRepl.7z
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/JRuby.7z
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/Jython.7z
+http://dl.dropboxusercontent.com/u/17358151/simpllpackages/AnsiCon.7z
