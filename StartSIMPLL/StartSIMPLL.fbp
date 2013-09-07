@@ -1,0 +1,19 @@
+[Project]
+Version=3
+Description=StartSIMPLL
+Api=fb (FreeBASIC)
+[Make]
+Current=1
+1=Windows Console,fbc -s console
+Recompile=2
+Module=Module Build,fbc -c
+[TabOrder]
+TabOrder=1
+[File]
+1=StartSIMPLL.bas
+2=Install.rc
+[BreakPoint]
+1=
+[FileInfo]
+1=0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
