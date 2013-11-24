@@ -1,2 +1,2 @@
-chdir exepath
-shell "cmd /k __Init.cmd"
+ChDir ExePath
+Shell "cmd /k __Init.cmd"
