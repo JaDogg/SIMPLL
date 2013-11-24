@@ -213,11 +213,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-#############
-## SIMPLL
-#############
-Bak/
-Setup/Setup.exe
-downld/Install.exe
-StartSIMPLL/StartSIMPLL.exe
